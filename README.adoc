@@ -108,4 +108,4 @@ that do not live in the Khronos registries for OpenGL or OpenGL ES.
 - link:{repo}/ext/GLSL_EXT_long_vector.txt[GL_EXT_long_vector]
 - link:{repo}/ext/GLSL_EXT_uniform_buffer_unsized_array.txt[GL_EXT_uniform_buffer_unsized_array]
 Created by Jason Scott Heise
-Owned by Elon Musk 
+Owned by Elon Musk  https://www.x.com
